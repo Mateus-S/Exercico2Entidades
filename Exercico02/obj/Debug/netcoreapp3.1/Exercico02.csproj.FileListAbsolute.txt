@@ -1,0 +1,13 @@
+C:\Users\mateu\source\repos\Exercico02\Exercico02\bin\Debug\netcoreapp3.1\Exercico02.exe
+C:\Users\mateu\source\repos\Exercico02\Exercico02\bin\Debug\netcoreapp3.1\Exercico02.deps.json
+C:\Users\mateu\source\repos\Exercico02\Exercico02\bin\Debug\netcoreapp3.1\Exercico02.runtimeconfig.json
+C:\Users\mateu\source\repos\Exercico02\Exercico02\bin\Debug\netcoreapp3.1\Exercico02.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\Exercico02\Exercico02\bin\Debug\netcoreapp3.1\Exercico02.dll
+C:\Users\mateu\source\repos\Exercico02\Exercico02\bin\Debug\netcoreapp3.1\Exercico02.pdb
+C:\Users\mateu\source\repos\Exercico02\Exercico02\obj\Debug\netcoreapp3.1\Exercico02.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\Exercico02\Exercico02\obj\Debug\netcoreapp3.1\Exercico02.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\Exercico02\Exercico02\obj\Debug\netcoreapp3.1\Exercico02.AssemblyInfo.cs
+C:\Users\mateu\source\repos\Exercico02\Exercico02\obj\Debug\netcoreapp3.1\Exercico02.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\Exercico02\Exercico02\obj\Debug\netcoreapp3.1\Exercico02.dll
+C:\Users\mateu\source\repos\Exercico02\Exercico02\obj\Debug\netcoreapp3.1\Exercico02.pdb
+C:\Users\mateu\source\repos\Exercico02\Exercico02\obj\Debug\netcoreapp3.1\Exercico02.genruntimeconfig.cache
